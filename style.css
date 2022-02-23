@@ -1,0 +1,35 @@
+*{
+	color:white;
+	text-align: center;
+}
+#container
+{
+	height:200px;
+	background-color: lightgrey;
+}
+
+#b1{
+	background-color:green;
+	width:50px;
+	height:70px;
+}
+
+#b2{
+	background-color:yellow;
+	width:70px;
+	height:70px;
+}
+
+#b3{
+	background-color:red;
+	width:70px;
+	height:70px;
+}
+
+#b4{
+	background-color:lightblue;
+	width:100px;
+	height:70px;
+}
+
+
